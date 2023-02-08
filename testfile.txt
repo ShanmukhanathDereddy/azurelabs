@@ -1,6 +1,2 @@
-The is the fisrt edit from the local
+The is the fisrt edit from the local 
 This is the new change making from GITHUB
-
-Hello World 
-
-
