@@ -4,3 +4,6 @@ This is the new change making from GITHUB
 
 
 This is Uday and trying to see whether we can make changes while merging..
+
+We did the first merging conflict.
+
